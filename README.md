@@ -6,7 +6,3 @@
 - Thao tác trên phpMyAdmin
 - Tạo khóa từ nhiều cột
 - Cách ném ngoại lệ
-### 20/11
-- Chuẩn thiết kế CSDL
-- FK có thể liên kết tới chính PK của cùng bảng
-- Index
