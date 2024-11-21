@@ -18,7 +18,6 @@
 ### Phân tích và thiết kế CSDL
 ![8-3 (1)](https://github.com/user-attachments/assets/0fff801e-c127-4312-9498-20f13d2280d7)
 
-### **Mục tiêu**
 ## Note
 ### 19/11
 - Thao tác trên phpMyAdmin
