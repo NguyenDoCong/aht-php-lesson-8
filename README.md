@@ -11,8 +11,8 @@
 ![image](https://github.com/user-attachments/assets/e9d67297-1f4d-45b7-9ddb-3c00397c5742)
 - SELECT * FROM customers WHERE customername like '%A%';
 ![image](https://github.com/user-attachments/assets/31440d3e-4289-4b41-a5d7-14f83372e053)
--SELECT * FROM customers WHERE city IN ('Nantes',' Las Vegas',' Warszawa','NYC')
-[image](https://github.com/user-attachments/assets/6faa2ed0-4762-417e-a844-1df82e847687)
+- SELECT * FROM customers WHERE city IN ('Nantes',' Las Vegas',' Warszawa','NYC')
+![image](https://github.com/user-attachments/assets/6faa2ed0-4762-417e-a844-1df82e847687)
 ## Note
 ### 19/11
 - Thao tác trên phpMyAdmin
