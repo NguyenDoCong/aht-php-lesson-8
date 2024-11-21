@@ -13,6 +13,8 @@
 ![image](https://github.com/user-attachments/assets/31440d3e-4289-4b41-a5d7-14f83372e053)
 - SELECT * FROM customers WHERE city IN ('Nantes',' Las Vegas',' Warszawa','NYC')
 ![image](https://github.com/user-attachments/assets/6faa2ed0-4762-417e-a844-1df82e847687)
+### Xác định khoá chính và khoá ngoại của bảng
+![BankAccount](https://github.com/user-attachments/assets/6a54477c-463f-4ce6-8df4-957e2ffec987)
 ## Note
 ### 19/11
 - Thao tác trên phpMyAdmin
